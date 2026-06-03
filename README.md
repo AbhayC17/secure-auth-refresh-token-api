@@ -46,7 +46,7 @@ It helps demonstrate knowledge of:
 - bcrypt.js
 - dotenv
 - Nodemon
-- Postman
+- Thunder Client
 - Git
 - GitHub
 
