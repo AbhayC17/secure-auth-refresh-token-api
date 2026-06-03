@@ -307,17 +307,6 @@ Invoke-RestMethod -Uri "http://localhost:5000/api/auth/login" `
 -Body '{"email":"abhay@example.com","password":"password123"}'
 ```
 
-## Screenshots
-
-Add your screenshots here:
-
-```markdown
-![Register API Test](assets/screenshots/register.png)
-![Login API Test](assets/screenshots/login.png)
-![Protected Route Test](assets/screenshots/protected-route.png)
-![Refresh Token Test](assets/screenshots/refresh-token.png)
-```
-
 ## Security Practices Used
 
 - Passwords are hashed before storage
@@ -354,11 +343,6 @@ Through this project, I learned:
 - API testing using Postman and PowerShell
 - Clean backend project structuring
 
-## Demo
-
-Live Demo: Add your deployed link here  
-GitHub Repository: https://github.com/AbhayC17/secure-auth-refresh-token-api
-
 ## Author
 
 **Abhay C**  
@@ -367,7 +351,7 @@ Interested in Backend Development, AI Engineering, Cloud Computing, and Secure A
 
 ## Connect With Me
 
-LinkedIn: Add your LinkedIn link here  
+LinkedIn: linkedin.com/in/abhay-chandrik-9a5723315/  
 GitHub: https://github.com/AbhayC17
 
 ## License
